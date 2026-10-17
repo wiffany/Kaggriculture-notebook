@@ -1,5 +1,0 @@
-# 执行笔记和导出网页时使用的工具版本。
-nbformat==5.11.1
-nbclient==0.11.0
-nbconvert==7.17.2
-ipykernel==7.4.0

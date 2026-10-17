@@ -1,2 +1,0 @@
-# 可选完整对局检查：使用独立的 Python 3.11 环境。
-kaggle-environments==1.32.7
