@@ -1,0 +1,45 @@
+{
+  "games": 4,
+  "calls": 2876,
+  "mismatches": 0,
+  "results": [
+    {
+      "episode": 115848758,
+      "calls": 719,
+      "mismatches": [],
+      "candidate_errors": [],
+      "reference_errors": [],
+      "candidate_max_seconds": 0.15956820000428706,
+      "reference_max_seconds": 0.17461639997782186
+    },
+    {
+      "episode": 115850296,
+      "calls": 719,
+      "mismatches": [],
+      "candidate_errors": [],
+      "reference_errors": [],
+      "candidate_max_seconds": 0.21561180002754554,
+      "reference_max_seconds": 0.19210079999174923
+    },
+    {
+      "episode": 115851258,
+      "calls": 719,
+      "mismatches": [],
+      "candidate_errors": [],
+      "reference_errors": [],
+      "candidate_max_seconds": 0.17354129999876022,
+      "reference_max_seconds": 0.18721060000825673
+    },
+    {
+      "episode": 115851812,
+      "calls": 719,
+      "mismatches": [],
+      "candidate_errors": [],
+      "reference_errors": [],
+      "candidate_max_seconds": 0.15553859999636188,
+      "reference_max_seconds": 0.1528820000239648
+    }
+  ],
+  "publication_source_sha256": "bb1dda21b5b034dd56e1b28c393e2b0b1e7d44052b45852296da0e6aab2047b3",
+  "check": "与原始冻结策略在完全相同观测下核对完整行动。"
+}
