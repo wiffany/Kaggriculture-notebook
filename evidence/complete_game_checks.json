@@ -1,0 +1,55 @@
+{
+  "engine_version": "1.32.7",
+  "games": 6,
+  "wins": 4,
+  "ties": 0,
+  "losses": 2,
+  "errors": 0,
+  "calls_per_game": 719,
+  "description": "最终决策策略的历史完整对局执行检查，不是新进行的排行榜评估。",
+  "original_report_sha256": "898a11c7b32fe0ede3794934f7e0217ef85e2c7e67e067137b97b9c070c1dc4e",
+  "results": [
+    {
+      "seed": 105501,
+      "seat": 0,
+      "margin": -202.0,
+      "candidate_calls": 719,
+      "done": true
+    },
+    {
+      "seed": 105501,
+      "seat": 1,
+      "margin": 1080.0,
+      "candidate_calls": 719,
+      "done": true
+    },
+    {
+      "seed": 105502,
+      "seat": 0,
+      "margin": 76.0,
+      "candidate_calls": 719,
+      "done": true
+    },
+    {
+      "seed": 105502,
+      "seat": 1,
+      "margin": -76.0,
+      "candidate_calls": 719,
+      "done": true
+    },
+    {
+      "seed": 105503,
+      "seat": 0,
+      "margin": 167.0,
+      "candidate_calls": 719,
+      "done": true
+    },
+    {
+      "seed": 105503,
+      "seat": 1,
+      "margin": 167.0,
+      "candidate_calls": 719,
+      "done": true
+    }
+  ]
+}
